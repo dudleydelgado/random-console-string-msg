@@ -1,0 +1,24 @@
+{
+  "name": "random-console-string-msg",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudleydelgado/random-console-string-msg.git"
+  },
+  "keywords": [],
+  "author": "Dudley Delgado <dudle.contac@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudleydelgado/random-console-string-msg/issues"
+  },
+  "homepage": "https://github.com/dudleydelgado/random-console-string-msg#readme",
+  "bin": {
+    "random-console-string-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
